@@ -33,9 +33,7 @@ My long-term goal is to work at the intersection of **mathematics, algorithms, a
 
 ## 💻 Competitive Programming Profiles
 
-* [Codeforces](https://codeforces.com/profile/furlong)
-* [CodeChef](https://www.codechef.com/users/furlong)
-* [Project Euler](https://projecteuler.net/)
+
 
 ## 🛠️ Technical Skills
 
